@@ -5,9 +5,9 @@ This is a basic school project using some electronics w/ [Arduino!](https://www.
 
 ## **Task**
 
-1. Create a prototype 
-2. Create a second prototype with buttons, limit switches etc.
-3. Implement a prototype to a real thing! 😎
+1. Create a prototype ✅ (02.12.2022)
+2. Create a second prototype with buttons, limit switches etc. (03.12.2022) ✅ 
+3. Implement a prototype to a real thing! 😎 ❌
 
 
 ## **Used components:**
