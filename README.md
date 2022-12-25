@@ -25,8 +25,17 @@ This is a basic school project using some electronics w/ [Arduino!](https://www.
 * Prototype 1 
 
     Here is the first ever idea of ​​building this. 
-    ![Prototype 1](src/photos/IMG_1067.JPG)
+    ![Prototype 1](src/photos/prototype_v1.JPG)
 
     Simple circuit just to test if everything is fine.
 
 
+#
+
+* Prototype 2
+
+    Added bunch of switches, leds and more wires 😎
+
+    I also wrote a few lines of code.
+
+    ![Prototype 2](src/photos/prototype_v2.jpg)
