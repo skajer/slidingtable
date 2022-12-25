@@ -19,6 +19,7 @@ This is a basic school project using some electronics w/ [Arduino!](https://www.
 * limit switch / x2
 * Power supply 12V DC
 * LEDS 
+* Potentiometer
 
 ## **Prototypes** ##
 
@@ -36,6 +37,6 @@ This is a basic school project using some electronics w/ [Arduino!](https://www.
 
     Added bunch of switches, leds and more wires 😎
 
-    I also wrote a few lines of code.
+    I also wrote a few lines of code. 
 
     ![Prototype 2](src/photos/prototype_v2.jpg)
