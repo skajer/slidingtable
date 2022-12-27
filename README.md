@@ -7,7 +7,7 @@ This is a basic school project using some electronics w/ [Arduino!](https://www.
 
 1. Create a prototype ✔️
 2. Create a second prototype with buttons, limit switches etc. ✔️
-3. Implement a prototype to a real thing! 😎 ❌
+3. Implement a prototype to a real thing! 😎 ✔️
 
 
 ## **Used components:**
